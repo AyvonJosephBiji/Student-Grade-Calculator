@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/04/14/01/74/360_F_414017416_Uhoe78wBsKtCmx7pvILchl6joMQrDgTY.jpg);
+    padding: 3%;
+    color: whitesmoke;
+}
+
+.red{
+    background-color:hsl(0, 84%, 30%);
+    padding: 4%;
+}
+
+.blue{
+    background-color:rgb(19, 133, 172);
+    padding: 4%;
+}
+
+
+.whit{
+        background-color: whitesmoke;
+        color: black;
+}
+
